@@ -1,0 +1,6 @@
+# directories to ignore
+keymaps/
+_linux/
+
+# files to ignore
+/*.xml
