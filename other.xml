@@ -1,0 +1,173 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>BashSupport</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/bin/node">
+      <version-cache version="6.12.2" last-modified="1512757434000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/bin/nodejs">
+      <version-cache version="6.14.3" last-modified="1528847975000" />
+    </local-interpreter>
+  </component>
+  <component name="PhpRefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="true" />
+    <option name="RENAME_SEARCH_NON_CODE_FOR_CLASS" value="true" />
+    <option name="EXTRACT_METHOD_DEFAULT_VISIBILITY" value="private" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="svn+ssh://dev01/subversion/projects/danDev" />
+        <option value="svn+ssh://dev01/subversion/trunk" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="svn+ssh://dev01/subversion/projects/danDev" />
+        <option value="svn+ssh://dev01/subversion/trunk" />
+      </list>
+    </option>
+  </component>
+  <component name="SvnBranchMapperManager">
+    <option name="myMapping">
+      <map>
+        <entry key="svn+ssh://dev01/subversion/trunk">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Projects/Main" />
+            </set>
+          </value>
+        </entry>
+        <entry key="svn+ssh://dev01/subversion/trunk/atwillcms">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Projects/Main/atwillcms" />
+            </set>
+          </value>
+        </entry>
+        <entry key="svn+ssh://dev01/subversion/trunk/fax">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Projects/Main/fax" />
+            </set>
+          </value>
+        </entry>
+        <entry key="svn+ssh://dev01/subversion/trunk/fgmarket">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Projects/Main/fgmarket" />
+            </set>
+          </value>
+        </entry>
+        <entry key="svn+ssh://dev01/subversion/trunk/flowershopnetwork">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Projects/Main/flowershopnetwork" />
+            </set>
+          </value>
+        </entry>
+        <entry key="svn+ssh://dev01/subversion/trunk/fsn_es">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Projects/Main/fsn_es" />
+            </set>
+          </value>
+        </entry>
+        <entry key="svn+ssh://dev01/subversion/trunk/fsnf2f">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Projects/Main/fsnf2f" />
+            </set>
+          </value>
+        </entry>
+        <entry key="svn+ssh://dev01/subversion/trunk/fsnmenu">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Projects/Main/fsnmenu" />
+            </set>
+          </value>
+        </entry>
+        <entry key="svn+ssh://dev01/subversion/trunk/funeralhome">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Projects/Main/funeralhome" />
+            </set>
+          </value>
+        </entry>
+        <entry key="svn+ssh://dev01/subversion/trunk/hospital">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Projects/Main/hospital" />
+            </set>
+          </value>
+        </entry>
+        <entry key="svn+ssh://dev01/subversion/trunk/jobs">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Projects/Main/jobs" />
+            </set>
+          </value>
+        </entry>
+        <entry key="svn+ssh://dev01/subversion/trunk/myfsn">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Projects/Main/myfsn" />
+            </set>
+          </value>
+        </entry>
+        <entry key="svn+ssh://dev01/subversion/trunk/notifications">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Projects/Main/notifications" />
+            </set>
+          </value>
+        </entry>
+        <entry key="svn+ssh://dev01/subversion/trunk/phonetools">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Projects/Main/phonetools" />
+            </set>
+          </value>
+        </entry>
+        <entry key="svn+ssh://dev01/subversion/trunk/private">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Projects/Main/private" />
+            </set>
+          </value>
+        </entry>
+        <entry key="svn+ssh://dev01/subversion/trunk/teamviewer">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Projects/Main/teamviewer" />
+            </set>
+          </value>
+        </entry>
+        <entry key="svn+ssh://dev01/subversion/trunk/wpn_net">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Projects/Main/wpn_net" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

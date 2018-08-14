@@ -1,0 +1,24 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://schema.org/CollectionPage" location="$USER_HOME$/.PhpStorm2017.3/system/extResources/fc5cfc93_CollectionPage.html" />
+    <resource url="http://schema.org/ContactPage" location="$USER_HOME$/.PhpStorm2017.3/system/extResources/2c470a49_ContactPage.html" />
+    <resource url="http://schema.org/ImageGallery" location="$USER_HOME$/.PhpStorm2017.3/system/extResources/2940093d_ImageGallery.html" />
+    <resource url="http://schema.org/ImageObject" location="$USER_HOME$/.PhpStorm2017.3/system/extResources/a3ada7f4_ImageObject.html" />
+    <resource url="https://schema.org/AboutPage" location="$USER_HOME$/.PhpStorm2017.3/system/extResources/32ce61f3_AboutPage.html" />
+    <resource url="https://schema.org/AggregateRating" location="$USER_HOME$/.PhpStorm2017.3/system/extResources/c2904133_AggregateRating.html" />
+    <resource url="https://schema.org/BlogPosting" location="$USER_HOME$/.PhpStorm2017.3/system/extResources/efb9edb7_BlogPosting.html" />
+    <resource url="https://schema.org/CollectionPage" location="$USER_HOME$/.PhpStorm2017.3/system/extResources/f7815a76_CollectionPage.html" />
+    <resource url="https://schema.org/ContactPage" location="$USER_HOME$/.PhpStorm2017.3/system/extResources/82732f46_ContactPage.html" />
+    <resource url="https://schema.org/GeoCoordinates" location="$USER_HOME$/.PhpStorm2017.3/system/extResources/7eb9a13_GeoCoordinates.html" />
+    <resource url="https://schema.org/ImageGallery" location="$USER_HOME$/.PhpStorm2017.3/system/extResources/989883e0_ImageGallery.html" />
+    <resource url="https://schema.org/ImageObject" location="$USER_HOME$/.PhpStorm2017.3/system/extResources/f9d9ccf1_ImageObject.html" />
+    <resource url="https://schema.org/LocalBusiness" location="$USER_HOME$/.PhpStorm2017.3/system/extResources/f9b66b02_LocalBusiness.html" />
+    <resource url="https://schema.org/Person" location="$USER_HOME$/.PhpStorm2017.3/system/extResources/aac5287e_Person.html" />
+    <resource url="https://schema.org/Place" location="$USER_HOME$/.PhpStorm2017.3/system/extResources/b2f082be_Place.html" />
+    <resource url="https://schema.org/PostalAddress" location="$USER_HOME$/.PhpStorm2017.3/system/extResources/f6e04f60_PostalAddress.html" />
+    <resource url="https://schema.org/Rating" location="$USER_HOME$/.PhpStorm2017.3/system/extResources/adf73ec6_Rating.html" />
+    <resource url="https://schema.org/Review" location="$USER_HOME$/.PhpStorm2017.3/system/extResources/ae308481_Review.html" />
+    <resource url="https://schema.org/WebPage" location="$USER_HOME$/.PhpStorm2017.3/system/extResources/1f39effa_WebPage.html" />
+    <resource url="https://www.schema.org/LocalBusiness" location="$USER_HOME$/.PhpStorm2017.3/system/extResources/6c699bf9_LocalBusiness.html" />
+  </component>
+</application>
